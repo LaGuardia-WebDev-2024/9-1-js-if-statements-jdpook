@@ -9,14 +9,14 @@ html {
 Taken From https://projects.verou.me/css3patterns/ */
 
 body{
-background-color: #ece983 !important;
+background-color: #ec8398 !important;
 background-image: linear-gradient(transparent 50%, rgba(255,255,255,.5) 50%) !important;
 background-size: 50px 50px !important;
 }
 
 h1,
 h2 {
-  background-color: black ;
+  background-color: rgb(118, 208, 212) ;
   border-radius: 20px;
   color: white;
   width: 600px;
@@ -24,6 +24,6 @@ h2 {
   margin-bottom: 5px;
 }
 #myCanvas {
-  border: 5px solid  black;
+  border: 5px solid  rgb(255, 255, 255);
   border-radius: 30px;
 }
